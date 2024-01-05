@@ -2,7 +2,7 @@
 Swift To-Do List App
 # SwiftUI To-Do List App
 
-![App Screenshot](path/to/screenshot.png)
+cd /Users/fahad/Desktop/projects
 
 ## Overview
 
