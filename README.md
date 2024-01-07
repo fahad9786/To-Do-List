@@ -7,22 +7,23 @@ This SwiftUI To-Do List app is built using Swift, SwiftUI, and integrates with G
 
 ## Features
 
-- **User authentication:** Register and log in to the app securely.
-- **Firebase integration:** Backend support for storing and retrieving to-do list items.
-- **Beautiful UI:** Explore various SwiftUI constructs for creating a visually appealing user interface.
-- **Data Persistence:** Save and retrieve to-do list items from a database.
+1. **User Authentication:**
+   - Register and log in securely to access personalized to-do lists.
+
+2. **Firebase Integration:**
+   - Backend support using Firebase Firestore for real-time, cloud-hosted, NoSQL database functionality.
+   - Secure user authentication for data access.
+
+3. **Beautiful UI:**
+   - Explore various SwiftUI constructs for creating a visually appealing user interface.
+   - Designed using Figma to ensure a user-friendly and visually appealing layout.
+
+4. **Data Persistence:**
+   - Save and retrieve to-do list items seamlessly from the Firebase database.
 
 ## Design Process
 
 I used Figma to design the initial layout of the app, ensuring a user-friendly and visually appealing interface. The design process involved creating wireframes and prototypes to finalize the app's look and feel.
-
-## Firebase Integration
-
-The app leverages Firebase services for backend support. Firebase Firestore is used as a real-time, cloud-hosted, NoSQL database to store and retrieve to-do list items. Firebase authentication ensures secure user logins and data access.
-
-## Security Measures
-
-User passwords are securely stored, and the authentication system allows users to select strong passwords. The app prioritizes user data security by implementing Firebase's authentication features.
 
 ## How to Run the App
 
@@ -32,22 +33,33 @@ To run the app, follow these steps:
 2. Open the project in Xcode.
 3. Build and run the app on a simulator or a physical device.
 
-## Additional Information
+## Image Descriptions
 
-For more details on building a SwiftUI To-Do List app, check out the [tutorial](#) on my blog.
+   - ![image9todolist.png](OOther/image%209%20todolist%20resized.png)
+     - App Icon: Represents the app's identity and is visible on the user's device.
+
+- ![Image 7 Resized](OOther/img%207%20resized.png)
+     - Registration View: User-friendly registration view for creating a new account.
+
+- ![image2resized.png](OOther/image%202%20resized.png)
+     - User Profile: Displays user data and preferences for a personalized experience.
+
+   - ![image3todolist.png](OOther/image%203%20todolist%20resized.png)
+     - Adding New Items: Illustrates the process of adding new to-do list items with a date.
+
+   - ![image4todolist.png](OOther/image%204%20todolist%20resized.png)
+     - To-Do List View: Allows users to manage their to-do items, mark as done, or delete.
+
+
+   - ![image8todolist.png](OOther/image%208%20todolist%20resized.png)
+     - Register View: User-friendly registration view for creating a new account.
+
+   - ![image10todolist.png](OOther/image%2010%20todolist%20resized.png)
+     - Firebase Integration: Showcases the seamless integration with Firebase services.
+     - Firebase Authentication: Highlights the Firebase authentication process for user security.
 
 ---
-
 
 **Thank you for reading! If you found this article helpful, please share it with your friends and colleagues. Sharing is caring.**
 
 ---
-
-   - ![image2.png](OOther/image%202%20resized.png)
-   - ![image3todolist.png](OOther/image%203%20todolist%20resized.png)
-   - ![image4todolist.png](OOther/image%204%20todolist%20resized.png)
-     - ![image5todolist.png](OOther/image%205%20resized%20resized.png)
-   - ![image7todolist.png](OOther/image%207%20todolistresized%20resized.png)
-   - ![image8todolist.png](OOther/image%208%20todolist%20resized.png)
-   - ![image9todolist.png](OOther/image%209%20todolist%20resized.png)
-   - ![image10todolist.png](OOther/image%2010%20todolist%20resized.png)
